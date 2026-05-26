@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code or analysis, please cite it as below."
+type: software
+title: "Statistical Inference & Design of Experiments — Complete R Implementation"
+abstract: >
+  A complete, reproducible R implementation of the 24ASD516 Statistical Inference
+  and Design of Experiments syllabus, covering 18 statistical procedures across
+  five units using two officially sourced government datasets (US DOJ State Crime
+  Statistics and NOAA El Niño Sea Surface Temperature).
+authors:
+  - family-names: "M B"
+    given-names: "Sourav"
+    affiliation: "Amrita Vishwa Vidyapeetham, Coimbatore"
+    orcid: ""
+  - family-names: "K G"
+    given-names: "Samyukthaa"
+    affiliation: "Amrita Vishwa Vidyapeetham, Coimbatore"
+date-released: 2025-01-01
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/souravmb/statistical-inference-doe-r"
+keywords:
+  - statistical inference
+  - hypothesis testing
+  - ANOVA
+  - factorial design
+  - Latin Square
+  - nonparametric tests
+  - R programming
+  - reproducible research
+  - design of experiments
+  - 24ASD516
+references:
+  - type: article
+    authors:
+      - family-names: "Chalfin"
+        given-names: "Aaron"
+      - family-names: "McCrary"
+        given-names: "Justin"
+    title: "Are U.S. Cities Underpoliced? Theory and Evidence"
+    journal: "Review of Economics and Statistics"
+    year: 2018
+    volume: 100
+    issue: 1
+    pages: "167-186"
