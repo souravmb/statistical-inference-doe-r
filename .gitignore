@@ -1,0 +1,42 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Renviron
+
+# Compiled R packages
+*.o
+*.so
+*.dll
+
+# Output and temp files
+Rplots.pdf
+*.log
+*.aux
+*.out
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+
+# knitr / R Markdown
+*_cache/
+*_files/
+*.html
+!docs/*.html
+
+# Python (used for data export only)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
